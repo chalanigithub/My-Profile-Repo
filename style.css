@@ -4,13 +4,18 @@ body {
   background-color: #fbfbda;
 }
 
-/* Paragraph */
+/* main layout center*/
+
+#mainlayout {
+  max-width: 1000px;
+  margin: auto;
+}
 
 
 /* headings */
 h1{
   color: white;
-  font-family:'Ramaraja', serif;
+  font-family: Georgia, serif;
   background: linear-gradient(
   to bottom,
   #172aa3,
@@ -18,19 +23,30 @@ h1{
   #2c42cf 50%,
   #2c42cf
   );
+  padding: 10px
 }
 
 h2{
 
   color: #0f3c8e;
-  font-family:'Oswald', sans-serif;
+  font-family:'Times New Roman', serif;
 }
 
 h3{
   color: black;
 }
 
- /* list */
+ /* paragraphs */
+
+ p{
+   font-family: Arial, sans-serif;
+ }
+
+ /* lists */
+ li{
+
+   font-family: Arial, sans-serif;
+ }
 
 
 
