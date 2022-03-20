@@ -1,0 +1,54 @@
+/* Body */
+body {
+
+  background-color: #fbfbda;
+}
+
+/* Paragraph */
+
+
+/* headings */
+h1{
+  color: white;
+  font-family:'Ramaraja', serif;
+  background: linear-gradient(
+  to bottom,
+  #172aa3,
+  #172aa3 50%,
+  #2c42cf 50%,
+  #2c42cf
+  );
+}
+
+h2{
+
+  color: #0f3c8e;
+  font-family:'Oswald', sans-serif;
+}
+
+h3{
+  color: black;
+}
+
+ /* list */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
